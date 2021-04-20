@@ -1,4 +1,7 @@
 # portfolio
+## git-script:
+- to run git-script: open terminal in project directory: bash git-script.sh
+
 ## source:
 - https://startbootstrap.com/theme/resume
 
