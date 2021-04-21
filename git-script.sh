@@ -2,6 +2,7 @@
 
 # this is a comment
 # message is a custom input variable
+# message is a custom input variable
 
 
 git add .
