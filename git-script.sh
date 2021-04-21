@@ -3,7 +3,7 @@
 # this is a comment
 # message is a custom input variable
 
-read message
+
 git add .
-git commit -m '$message'
+git commit -m "$*"
 git push origin master
