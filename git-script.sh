@@ -1,9 +1,6 @@
 #!/bin/bash
 
-# this is a comment
-# message is a custom input variable
-# message is a custom input variable
-
+# "$*" takes in all the input after the script call and uses it as the commit message
 
 git add .
 git commit -m "$*"
